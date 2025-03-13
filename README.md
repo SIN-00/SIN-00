@@ -1,7 +1,6 @@
 # 👋 SIN-00 githup
 
 - 🌱 I’m currently learning **Python, C++, and Web Development**
-- 🔭 I’m working on **[Your Project Name](https://github.com/your_project_link)**
 - 💬 Ask me about **AI, Backend Development, and DevOps**
 - 📫 How to reach me: [Email](mailto:ajtwoddltom@gmail.com) | [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/%EC%A7%80%ED%99%98-%EC%8B%A0-86976a350/))
 
