@@ -1,8 +1,8 @@
 # 👋 SIN-00 githup
 
-- 🌱 I’m currently learning **Python, C++, and Web Development**
-- 💬 Ask me about **AI, Backend Development, and DevOps**
-- 📫 How to reach me: [Email](mailto:ajtwoddltom@gmail.com) | [LinkedIn] (https://www.linkedin.com/in/%EC%A7%80%ED%99%98-%EC%8B%A0-86976a350/)
+- 🌱 I’m currently learning **Django, SpringBoot, and AI Engineering**
+- 💬 Ask me about **AI, Backend Development**
+- 📫 How to reach me: [Email](mailto:ajtwoddltom@gmail.com) | [LinkedIn](https://www.linkedin.com/in/%EC%A7%80%ED%99%98-%EC%8B%A0-86976a350/)
 
   
 ### 🔧 Technologies & Tools
