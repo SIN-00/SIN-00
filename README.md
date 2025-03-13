@@ -1,5 +1,4 @@
-# 👋 Hello! I'm [Your Name]
-Welcome to my GitHub profile! 🚀
+# 👋 SIN-00 githup
 
 - 🌱 I’m currently learning **Python, C++, and Web Development**
 - 🔭 I’m working on **[Your Project Name](https://github.com/your_project_link)**
